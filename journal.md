@@ -10,3 +10,5 @@ the senors i chose works and how it helped with the spero bolt operate because i
 
 # September 9, 2024
 I didn't encounter any challenges while following the steps.
+# November 18, 2024 
+the holiday we're celebrating next week is Thanksgiving.

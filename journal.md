@@ -12,3 +12,5 @@ the senors i chose works and how it helped with the spero bolt operate because i
 I didn't encounter any challenges while following the steps.
 # November 18, 2024 
 the holiday we're celebrating next week is Thanksgiving.
+# November 12, 2024
+the events that been happening relates to the stuff we've been learning in class is that they're both about the same thing and they're about coding.
